@@ -1,0 +1,32 @@
+body {
+  font-family: Arial;
+  font-weight: bolder;
+  color: MidnightBlue;
+  text-align: center;
+  background-color: white;
+  border-size: 2px;
+  margin:0px;
+}
+
+a {
+  border-radius: 100%;
+
+
+}
+h1 {
+  font-family: Arial;
+  font-size: 35px;
+  color: MidnightBlue;
+}
+#logo {
+  height: 80px;
+  width: 80px;
+  display:
+}
+#container {
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+}
